@@ -1,0 +1,39 @@
+# Week 01 – Cybersecurity Asset Inventory
+
+## 📌 Overview
+
+This project is part of a cybersecurity learning series focused on **Asset Inventory**.
+
+An asset inventory is the process of identifying, documenting, and organizing all systems, devices, applications, accounts, and other resources that need to be protected within an organization.
+
+Maintaining an accurate asset inventory is an important first step in cybersecurity because you cannot properly protect assets that you do not know exist.
+
+## 🎯 Objectives
+
+* Understand the concept of cybersecurity asset inventory.
+* Identify different types of organizational assets.
+* Categorize assets based on their purpose and importance.
+* Document important asset information.
+* Understand how asset inventories support cybersecurity risk management.
+* Build a structured inventory that can be maintained and updated.
+
+## 🔐 Types of Assets
+
+The inventory may include different categories of assets, such as:
+
+* 💻 Computers and laptops
+* 🖥️ Servers
+* 🌐 Network devices
+* 📱 Mobile devices
+* ☁️ Cloud resources
+* 🗄️ Databases
+* 📦 Software and applications
+* 👤 User accounts
+* 🔑 Service accounts
+* 📄 Sensitive information and data
+* 🔌 IoT devices
+* 🌍 Websites and domains
+
+## 📋 Asset Inventory Fields
+
+A typical asset inventory can contain informat
